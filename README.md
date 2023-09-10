@@ -1,11 +1,1 @@
-asfd safsa
-fas faf
-dsan 
-f
-b
-n
-smda
- bfsdbf
-  nb s
-  a nbfsb abf  abfn
-  dbsa nfbnas bdfnasb nfbsbna mfbsa bnf
+contain template code for running Spark \ Kafka \ MapReduce [single node case], all tested
